@@ -23,7 +23,7 @@ public class TaumBday_Solution {
 		System.out.println("Mon = "+ min );
 		
 		long a = 81121308*720682;
-		System.out.println(a);
+		System.out.println("-"+a);
 
 	}
 
